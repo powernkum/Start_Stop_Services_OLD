@@ -11,11 +11,9 @@ These scripts interact with the ArcGIS Server REST API to manage services automa
 
 ## **Prerequisites**
 Before using these scripts, ensure you have the following:  
-- Python **2.7 or 3.x** installed  
+- A working installation of `Python`  
 - Access to an **ArcGIS Server with administrative credentials**  
 - Required Python libraries (**`httplib`**, **`urllib`**, **`json`**)  
-
-If you are using **Python 3**, replace `httplib` with `http.client`.
 
 ---
 
